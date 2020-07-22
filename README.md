@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/circleci/USING_JAXB_TO_GET_XML.svg?style=svg)](https://github.com/zikozee/USING_JAXB_TO_GET_XML)
 
 To get XML, also JSON as we did using seperate modules
 
