@@ -1,5 +1,5 @@
 [![CircleCI](https://circleci.com/gh/circleci/USING_JAXB_TO_GET_XML.svg?style=svg&circle-token=b4aa9757e0fdfe4c68d8ac157efc55c16cb89f2a)](https://github.com/zikozee/USING_JAXB_TO_GET_XML)
-
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 
 To get XML, also JSON as we did using seperate modules
 
