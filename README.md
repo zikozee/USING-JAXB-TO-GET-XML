@@ -1,5 +1,5 @@
 
-[![CircleCI](https://circleci.com/gh/circleci/USING_JAXB_TO_GET_XML.svg?style=svg)](https://github.com/zikozee/USING_JAXB_TO_GET_XML)
+[![CircleCI](https://circleci.com/gh/circleci/USING-JAXB-TO-GET-XML.svg?style=svg)](https://github.com/zikozee/USING_JAXB_TO_GET_XML)
 
 
 
