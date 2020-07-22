@@ -23,5 +23,8 @@ converted it in postman Content-type application/xml, Accept application/xml, by
  using venetianBlind
  
  we generated xsd and placed in customer.xsd and then generated needed classes using JAXB2
+ 
+ 
+ UNIT Test and INTEGRATED TEST EMBEDDED
 
 
