@@ -1,5 +1,6 @@
 [![CircleCI](https://circleci.com/gh/circleci/USING_JAXB_TO_GET_XML.svg?style=svg&circle-token=b4aa9757e0fdfe4c68d8ac157efc55c16cb89f2a)](https://github.com/zikozee/USING_JAXB_TO_GET_XML)
 
+
 To get XML, also JSON as we did using seperate modules
 
 XML(Main focus)
@@ -19,8 +20,6 @@ converted it in postman Content-type application/xml, Accept application/xml, by
  we then picked the xml in postman and went to https://www.freeformatter.com/xsd-generator.html#ad-output
  using venetianBlind
  
- we generated xsd and placed in customer.xsd
- 
- and then generated needed classes using JAXB2
+ we generated xsd and placed in customer.xsd and then generated needed classes using JAXB2
 
 
